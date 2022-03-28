@@ -1,0 +1,7 @@
+opentelemetry-instrumentation-httpx
+httpx
+opentelemetry-sdk
+opentelemetry-exporter-jaeger
+opentelemetry-instrumentation-fastapi
+fastapi
+uvicorn
