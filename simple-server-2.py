@@ -1,7 +1,5 @@
 import fastapi
 import uvicorn
-from opentelemetry.instrumentation.fastapi import FastAPIInstrumentor
-from jaeger_setup import setup_jaeger
 
 
 
